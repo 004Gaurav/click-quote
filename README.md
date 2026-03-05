@@ -66,7 +66,7 @@ This ensures `quotes.json` loads correctly.
 In `cute_quotes.html`, update:
 
 ```js
-const DISPLAY_NAME = "Preeti";
+const DISPLAY_NAME = "name";
 ```
 
 All `{name}` placeholders in quotes will use that value.
